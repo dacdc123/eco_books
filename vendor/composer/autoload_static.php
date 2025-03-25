@@ -361,8 +361,8 @@ class ComposerStaticInitb84ffbfcdeb9a40301f9048419860a56
         ),
         'Psr\\Http\\Message\\' => 
         array (
-            0 => __DIR__ . '/..' . '/psr/http-message/src',
-            1 => __DIR__ . '/..' . '/psr/http-factory/src',
+            0 => __DIR__ . '/..' . '/psr/http-factory/src',
+            1 => __DIR__ . '/..' . '/psr/http-message/src',
         ),
         'Psr\\Http\\Client\\' => 
         array (
@@ -746,6 +746,7 @@ class ComposerStaticInitb84ffbfcdeb9a40301f9048419860a56
         'Cron\\MinutesField' => __DIR__ . '/..' . '/dragonmantank/cron-expression/src/Cron/MinutesField.php',
         'Cron\\MonthField' => __DIR__ . '/..' . '/dragonmantank/cron-expression/src/Cron/MonthField.php',
         'Database\\Factories\\BannerFactory' => __DIR__ . '/../..' . '/database/factories/BannerFactory.php',
+        'Database\\Factories\\BrandFactory' => __DIR__ . '/../..' . '/database/factories/BrandFactory.php',
         'Database\\Factories\\CartDetailFactory' => __DIR__ . '/../..' . '/database/factories/CartDetailFactory.php',
         'Database\\Factories\\CartFactory' => __DIR__ . '/../..' . '/database/factories/CartFactory.php',
         'Database\\Factories\\CategoryFactory' => __DIR__ . '/../..' . '/database/factories/CategoryFactory.php',
