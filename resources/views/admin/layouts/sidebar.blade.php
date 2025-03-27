@@ -3,7 +3,7 @@
     <a href="index3.html" class="brand-link bg-info">
         <img src="{{ asset('theme/admin/dist/img/AdminLTELogo.png') }}" alt="AdminLTE Logo"
             class="brand-image img-circle elevation-3" style="opacity: .8">
-        <span class="brand-text font-weight-light"><b>ETERNA WATCH</b></span>
+        <span class="brand-text font-weight-light"><b>Eco Book</b></span>
     </a>
 
     <!-- Sidebar -->
